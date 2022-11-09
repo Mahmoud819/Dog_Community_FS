@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'dog_community.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'dog_communitydb',
+        'NAME': 'MySQL80',
         'USER': 'root',
         'HOST':'localhost',
         'PORT':'3306',
-        'PASSWORD':'Keytomysql@2'
+        'PASSWORD':'P@$$w0rd'
     }
 }
 
